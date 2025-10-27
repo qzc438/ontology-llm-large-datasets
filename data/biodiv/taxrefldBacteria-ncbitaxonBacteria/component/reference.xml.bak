@@ -1,0 +1,1414 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns="http://knowledgeweb.semanticweb.org/heterogeneity/alignment#"
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+<Alignment>
+<xml>yes</xml>
+<level>0</level>
+<type>??</type>
+<onto1>TAXREFLD</onto1>
+<onto2>NCBITAXON</onto2>
+<uri1>http://agroportal.lirmm.fr/ontologies/TAXREF-LD</uri1>
+<uri2>https://bioportal.bioontology.org/ontologies/NCBITAXON</uri2>
+<map>
+    <Cell>
+        <entity1 rdf:resource="http://taxref.mnhn.fr/lod/taxon/720018/13.0"/>
+        <entity2 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_1574324"/>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+        <relation>=</relation>
+    </Cell>
+</map>
+<map>
+    <Cell>
+        <entity1 rdf:resource="http://taxref.mnhn.fr/lod/taxon/701772/13.0"/>
+        <entity2 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_945773"/>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+        <relation>=</relation>
+    </Cell>
+</map>
+<map>
+    <Cell>
+        <entity1 rdf:resource="http://taxref.mnhn.fr/lod/taxon/72368/13.0"/>
+        <entity2 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_109615"/>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+        <relation>=</relation>
+    </Cell>
+</map>
+<map>
+    <Cell>
+        <entity1 rdf:resource="http://taxref.mnhn.fr/lod/taxon/895152/13.0"/>
+        <entity2 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_890415"/>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+        <relation>=</relation>
+    </Cell>
+</map>
+<map>
+    <Cell>
+        <entity1 rdf:resource="http://taxref.mnhn.fr/lod/taxon/698875/13.0"/>
+        <entity2 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_71191"/>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+        <relation>=</relation>
+    </Cell>
+</map>
+<map>
+    <Cell>
+        <entity1 rdf:resource="http://taxref.mnhn.fr/lod/taxon/698767/13.0"/>
+        <entity2 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_1453813"/>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+        <relation>=</relation>
+    </Cell>
+</map>
+<map>
+    <Cell>
+        <entity1 rdf:resource="http://taxref.mnhn.fr/lod/taxon/929487/13.0"/>
+        <entity2 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_553611"/>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+        <relation>=</relation>
+    </Cell>
+</map>
+<map>
+    <Cell>
+        <entity1 rdf:resource="http://taxref.mnhn.fr/lod/taxon/670180/13.0"/>
+        <entity2 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_153188"/>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+        <relation>=</relation>
+    </Cell>
+</map>
+<map>
+    <Cell>
+        <entity1 rdf:resource="http://taxref.mnhn.fr/lod/taxon/72369/13.0"/>
+        <entity2 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_1126"/>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+        <relation>=</relation>
+    </Cell>
+</map>
+<map>
+    <Cell>
+        <entity1 rdf:resource="http://taxref.mnhn.fr/lod/taxon/929495/13.0"/>
+        <entity2 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_29497"/>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+        <relation>=</relation>
+    </Cell>
+</map>
+<map>
+    <Cell>
+        <entity1 rdf:resource="http://taxref.mnhn.fr/lod/taxon/829990/13.0"/>
+        <entity2 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_129965"/>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+        <relation>=</relation>
+    </Cell>
+</map>
+<map>
+    <Cell>
+        <entity1 rdf:resource="http://taxref.mnhn.fr/lod/taxon/886963/13.0"/>
+        <entity2 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_632"/>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+        <relation>=</relation>
+    </Cell>
+</map>
+<map>
+    <Cell>
+        <entity1 rdf:resource="http://taxref.mnhn.fr/lod/taxon/529073/13.0"/>
+        <entity2 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_54310"/>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+        <relation>=</relation>
+    </Cell>
+</map>
+<map>
+    <Cell>
+        <entity1 rdf:resource="http://taxref.mnhn.fr/lod/taxon/528848/13.0"/>
+        <entity2 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_1132759"/>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+        <relation>=</relation>
+    </Cell>
+</map>
+<map>
+    <Cell>
+        <entity1 rdf:resource="http://taxref.mnhn.fr/lod/taxon/850883/13.0"/>
+        <entity2 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_693223"/>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+        <relation>=</relation>
+    </Cell>
+</map>
+<map>
+    <Cell>
+        <entity1 rdf:resource="http://taxref.mnhn.fr/lod/taxon/698889/13.0"/>
+        <entity2 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_293762"/>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+        <relation>=</relation>
+    </Cell>
+</map>
+<map>
+    <Cell>
+        <entity1 rdf:resource="http://taxref.mnhn.fr/lod/taxon/807138/13.0"/>
+        <entity2 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_663"/>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+        <relation>=</relation>
+    </Cell>
+</map>
+<map>
+    <Cell>
+        <entity1 rdf:resource="http://taxref.mnhn.fr/lod/taxon/72271/13.0"/>
+        <entity2 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_439478"/>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+        <relation>=</relation>
+    </Cell>
+</map>
+<map>
+    <Cell>
+        <entity1 rdf:resource="http://taxref.mnhn.fr/lod/taxon/886970/13.0"/>
+        <entity2 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_633"/>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+        <relation>=</relation>
+    </Cell>
+</map>
+<map>
+    <Cell>
+        <entity1 rdf:resource="http://taxref.mnhn.fr/lod/taxon/829995/13.0"/>
+        <entity2 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_482630"/>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+        <relation>=</relation>
+    </Cell>
+</map>
+<map>
+    <Cell>
+        <entity1 rdf:resource="http://taxref.mnhn.fr/lod/taxon/720101/13.0"/>
+        <entity2 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_132608"/>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+        <relation>=</relation>
+    </Cell>
+</map>
+<map>
+    <Cell>
+        <entity1 rdf:resource="http://taxref.mnhn.fr/lod/taxon/720021/13.0"/>
+        <entity2 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_1573620"/>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+        <relation>=</relation>
+    </Cell>
+</map>
+<map>
+    <Cell>
+        <entity1 rdf:resource="http://taxref.mnhn.fr/lod/taxon/698838/13.0"/>
+        <entity2 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_665891"/>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+        <relation>=</relation>
+    </Cell>
+</map>
+<map>
+    <Cell>
+        <entity1 rdf:resource="http://taxref.mnhn.fr/lod/taxon/698864/13.0"/>
+        <entity2 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_184932"/>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+        <relation>=</relation>
+    </Cell>
+</map>
+<map>
+    <Cell>
+        <entity1 rdf:resource="http://taxref.mnhn.fr/lod/taxon/72081/13.0"/>
+        <entity2 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_693220"/>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+        <relation>=</relation>
+    </Cell>
+</map>
+<map>
+    <Cell>
+        <entity1 rdf:resource="http://taxref.mnhn.fr/lod/taxon/72187/13.0"/>
+        <entity2 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_212362"/>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+        <relation>=</relation>
+    </Cell>
+</map>
+<map>
+    <Cell>
+        <entity1 rdf:resource="http://taxref.mnhn.fr/lod/taxon/72042/13.0"/>
+        <entity2 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_1004305"/>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+        <relation>=</relation>
+    </Cell>
+</map>
+<map>
+    <Cell>
+        <entity1 rdf:resource="http://taxref.mnhn.fr/lod/taxon/780425/13.0"/>
+        <entity2 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_135103"/>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+        <relation>=</relation>
+    </Cell>
+</map>
+<map>
+    <Cell>
+        <entity1 rdf:resource="http://taxref.mnhn.fr/lod/taxon/932409/13.0"/>
+        <entity2 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_109232"/>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+        <relation>=</relation>
+    </Cell>
+</map>
+<map>
+    <Cell>
+        <entity1 rdf:resource="http://taxref.mnhn.fr/lod/taxon/705194/13.0"/>
+        <entity2 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_1136066"/>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+        <relation>=</relation>
+    </Cell>
+</map>
+<map>
+    <Cell>
+        <entity1 rdf:resource="http://taxref.mnhn.fr/lod/taxon/72082/13.0"/>
+        <entity2 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_1499410"/>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+        <relation>=</relation>
+    </Cell>
+</map>
+<map>
+    <Cell>
+        <entity1 rdf:resource="http://taxref.mnhn.fr/lod/taxon/929493/13.0"/>
+        <entity2 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_688"/>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+        <relation>=</relation>
+    </Cell>
+</map>
+<map>
+    <Cell>
+        <entity1 rdf:resource="http://taxref.mnhn.fr/lod/taxon/829981/13.0"/>
+        <entity2 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_331992"/>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+        <relation>=</relation>
+    </Cell>
+</map>
+<map>
+    <Cell>
+        <entity1 rdf:resource="http://taxref.mnhn.fr/lod/taxon/72065/13.0"/>
+        <entity2 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_232960"/>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+        <relation>=</relation>
+    </Cell>
+</map>
+<map>
+    <Cell>
+        <entity1 rdf:resource="http://taxref.mnhn.fr/lod/taxon/699920/13.0"/>
+        <entity2 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_77022"/>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+        <relation>=</relation>
+    </Cell>
+</map>
+<map>
+    <Cell>
+        <entity1 rdf:resource="http://taxref.mnhn.fr/lod/taxon/929491/13.0"/>
+        <entity2 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_669"/>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+        <relation>=</relation>
+    </Cell>
+</map>
+<map>
+    <Cell>
+        <entity1 rdf:resource="http://taxref.mnhn.fr/lod/taxon/829967/13.0"/>
+        <entity2 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_765174"/>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+        <relation>=</relation>
+    </Cell>
+</map>
+<map>
+    <Cell>
+        <entity1 rdf:resource="http://taxref.mnhn.fr/lod/taxon/892544/13.0"/>
+        <entity2 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_1769"/>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+        <relation>=</relation>
+    </Cell>
+</map>
+<map>
+    <Cell>
+        <entity1 rdf:resource="http://taxref.mnhn.fr/lod/taxon/892928/13.0"/>
+        <entity2 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_1938814"/>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+        <relation>=</relation>
+    </Cell>
+</map>
+<map>
+    <Cell>
+        <entity1 rdf:resource="http://taxref.mnhn.fr/lod/taxon/901939/13.0"/>
+        <entity2 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_573"/>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+        <relation>=</relation>
+    </Cell>
+</map>
+<map>
+    <Cell>
+        <entity1 rdf:resource="http://taxref.mnhn.fr/lod/taxon/720114/13.0"/>
+        <entity2 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_1565292"/>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+        <relation>=</relation>
+    </Cell>
+</map>
+<map>
+    <Cell>
+        <entity1 rdf:resource="http://taxref.mnhn.fr/lod/taxon/720094/13.0"/>
+        <entity2 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_262069"/>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+        <relation>=</relation>
+    </Cell>
+</map>
+<map>
+    <Cell>
+        <entity1 rdf:resource="http://taxref.mnhn.fr/lod/taxon/698856/13.0"/>
+        <entity2 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_232948"/>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+        <relation>=</relation>
+    </Cell>
+</map>
+<map>
+    <Cell>
+        <entity1 rdf:resource="http://taxref.mnhn.fr/lod/taxon/698847/13.0"/>
+        <entity2 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_56108"/>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+        <relation>=</relation>
+    </Cell>
+</map>
+<map>
+    <Cell>
+        <entity1 rdf:resource="http://taxref.mnhn.fr/lod/taxon/703392/13.0"/>
+        <entity2 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_47255"/>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+        <relation>=</relation>
+    </Cell>
+</map>
+<map>
+    <Cell>
+        <entity1 rdf:resource="http://taxref.mnhn.fr/lod/taxon/720115/13.0"/>
+        <entity2 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_938406"/>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+        <relation>=</relation>
+    </Cell>
+</map>
+<map>
+    <Cell>
+        <entity1 rdf:resource="http://taxref.mnhn.fr/lod/taxon/72224/13.0"/>
+        <entity2 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_748017"/>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+        <relation>=</relation>
+    </Cell>
+</map>
+<map>
+    <Cell>
+        <entity1 rdf:resource="http://taxref.mnhn.fr/lod/taxon/698793/13.0"/>
+        <entity2 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_1205919"/>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+        <relation>=</relation>
+    </Cell>
+</map>
+<map>
+    <Cell>
+        <entity1 rdf:resource="http://taxref.mnhn.fr/lod/taxon/720119/13.0"/>
+        <entity2 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_1841509"/>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+        <relation>=</relation>
+    </Cell>
+</map>
+<map>
+    <Cell>
+        <entity1 rdf:resource="http://taxref.mnhn.fr/lod/taxon/72272/13.0"/>
+        <entity2 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_1610761"/>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+        <relation>=</relation>
+    </Cell>
+</map>
+<map>
+    <Cell>
+        <entity1 rdf:resource="http://taxref.mnhn.fr/lod/taxon/698869/13.0"/>
+        <entity2 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_207921"/>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+        <relation>=</relation>
+    </Cell>
+</map>
+<map>
+    <Cell>
+        <entity1 rdf:resource="http://taxref.mnhn.fr/lod/taxon/720091/13.0"/>
+        <entity2 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_1521554"/>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+        <relation>=</relation>
+    </Cell>
+</map>
+<map>
+    <Cell>
+        <entity1 rdf:resource="http://taxref.mnhn.fr/lod/taxon/807140/13.0"/>
+        <entity2 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_670"/>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+        <relation>=</relation>
+    </Cell>
+</map>
+<map>
+    <Cell>
+        <entity1 rdf:resource="http://taxref.mnhn.fr/lod/taxon/705153/13.0"/>
+        <entity2 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_945780"/>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+        <relation>=</relation>
+    </Cell>
+</map>
+<map>
+    <Cell>
+        <entity1 rdf:resource="http://taxref.mnhn.fr/lod/taxon/72189/13.0"/>
+        <entity2 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_272131"/>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+        <relation>=</relation>
+    </Cell>
+</map>
+<map>
+    <Cell>
+        <entity1 rdf:resource="http://taxref.mnhn.fr/lod/taxon/701779/13.0"/>
+        <entity2 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_190968"/>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+        <relation>=</relation>
+    </Cell>
+</map>
+<map>
+    <Cell>
+        <entity1 rdf:resource="http://taxref.mnhn.fr/lod/taxon/72184/13.0"/>
+        <entity2 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_70799"/>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+        <relation>=</relation>
+    </Cell>
+</map>
+<map>
+    <Cell>
+        <entity1 rdf:resource="http://taxref.mnhn.fr/lod/taxon/72353/13.0"/>
+        <entity2 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_1118237"/>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+        <relation>=</relation>
+    </Cell>
+</map>
+<map>
+    <Cell>
+        <entity1 rdf:resource="http://taxref.mnhn.fr/lod/taxon/72084/13.0"/>
+        <entity2 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_380547"/>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+        <relation>=</relation>
+    </Cell>
+</map>
+<map>
+    <Cell>
+        <entity1 rdf:resource="http://taxref.mnhn.fr/lod/taxon/854009/13.0"/>
+        <entity2 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_944"/>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+        <relation>=</relation>
+    </Cell>
+</map>
+<map>
+    <Cell>
+        <entity1 rdf:resource="http://taxref.mnhn.fr/lod/taxon/72087/13.0"/>
+        <entity2 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_70191"/>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+        <relation>=</relation>
+    </Cell>
+</map>
+<map>
+    <Cell>
+        <entity1 rdf:resource="http://taxref.mnhn.fr/lod/taxon/72410/13.0"/>
+        <entity2 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_1173"/>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+        <relation>=</relation>
+    </Cell>
+</map>
+<map>
+    <Cell>
+        <entity1 rdf:resource="http://taxref.mnhn.fr/lod/taxon/698803/13.0"/>
+        <entity2 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_933334"/>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+        <relation>=</relation>
+    </Cell>
+</map>
+<map>
+    <Cell>
+        <entity1 rdf:resource="http://taxref.mnhn.fr/lod/taxon/670558/13.0"/>
+        <entity2 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_136074"/>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+        <relation>=</relation>
+    </Cell>
+</map>
+<map>
+    <Cell>
+        <entity1 rdf:resource="http://taxref.mnhn.fr/lod/taxon/895131/13.0"/>
+        <entity2 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_402781"/>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+        <relation>=</relation>
+    </Cell>
+</map>
+<map>
+    <Cell>
+        <entity1 rdf:resource="http://taxref.mnhn.fr/lod/taxon/854006/13.0"/>
+        <entity2 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_142058"/>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+        <relation>=</relation>
+    </Cell>
+</map>
+<map>
+    <Cell>
+        <entity1 rdf:resource="http://taxref.mnhn.fr/lod/taxon/72170/13.0"/>
+        <entity2 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_292586"/>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+        <relation>=</relation>
+    </Cell>
+</map>
+<map>
+    <Cell>
+        <entity1 rdf:resource="http://taxref.mnhn.fr/lod/taxon/811599/13.0"/>
+        <entity2 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_60848"/>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+        <relation>=</relation>
+    </Cell>
+</map>
+<map>
+    <Cell>
+        <entity1 rdf:resource="http://taxref.mnhn.fr/lod/taxon/701526/13.0"/>
+        <entity2 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_1208"/>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+        <relation>=</relation>
+    </Cell>
+</map>
+<map>
+    <Cell>
+        <entity1 rdf:resource="http://taxref.mnhn.fr/lod/taxon/72188/13.0"/>
+        <entity2 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_92942"/>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+        <relation>=</relation>
+    </Cell>
+</map>
+<map>
+    <Cell>
+        <entity1 rdf:resource="http://taxref.mnhn.fr/lod/taxon/698899/13.0"/>
+        <entity2 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_54301"/>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+        <relation>=</relation>
+    </Cell>
+</map>
+<map>
+    <Cell>
+        <entity1 rdf:resource="http://taxref.mnhn.fr/lod/taxon/531262/13.0"/>
+        <entity2 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_373990"/>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+        <relation>=</relation>
+    </Cell>
+</map>
+<map>
+    <Cell>
+        <entity1 rdf:resource="http://taxref.mnhn.fr/lod/taxon/895135/13.0"/>
+        <entity2 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_402779"/>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+        <relation>=</relation>
+    </Cell>
+</map>
+<map>
+    <Cell>
+        <entity1 rdf:resource="http://taxref.mnhn.fr/lod/taxon/807139/13.0"/>
+        <entity2 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_666"/>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+        <relation>=</relation>
+    </Cell>
+</map>
+<map>
+    <Cell>
+        <entity1 rdf:resource="http://taxref.mnhn.fr/lod/taxon/698742/13.0"/>
+        <entity2 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_1304828"/>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+        <relation>=</relation>
+    </Cell>
+</map>
+<map>
+    <Cell>
+        <entity1 rdf:resource="http://taxref.mnhn.fr/lod/taxon/840422/13.0"/>
+        <entity2 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_2371"/>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+        <relation>=</relation>
+    </Cell>
+</map>
+<map>
+    <Cell>
+        <entity1 rdf:resource="http://taxref.mnhn.fr/lod/taxon/531382/13.0"/>
+        <entity2 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_996925"/>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+        <relation>=</relation>
+    </Cell>
+</map>
+<map>
+    <Cell>
+        <entity1 rdf:resource="http://taxref.mnhn.fr/lod/taxon/891628/13.0"/>
+        <entity2 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_35789"/>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+        <relation>=</relation>
+    </Cell>
+</map>
+<map>
+    <Cell>
+        <entity1 rdf:resource="http://taxref.mnhn.fr/lod/taxon/829971/13.0"/>
+        <entity2 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_1179"/>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+        <relation>=</relation>
+    </Cell>
+</map>
+<map>
+    <Cell>
+        <entity1 rdf:resource="http://taxref.mnhn.fr/lod/taxon/72058/13.0"/>
+        <entity2 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_32054"/>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+        <relation>=</relation>
+    </Cell>
+</map>
+<map>
+    <Cell>
+        <entity1 rdf:resource="http://taxref.mnhn.fr/lod/taxon/932408/13.0"/>
+        <entity2 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_948"/>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+        <relation>=</relation>
+    </Cell>
+</map>
+<map>
+    <Cell>
+        <entity1 rdf:resource="http://taxref.mnhn.fr/lod/taxon/698871/13.0"/>
+        <entity2 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_450471"/>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+        <relation>=</relation>
+    </Cell>
+</map>
+<map>
+    <Cell>
+        <entity1 rdf:resource="http://taxref.mnhn.fr/lod/taxon/701776/13.0"/>
+        <entity2 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_73853"/>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+        <relation>=</relation>
+    </Cell>
+</map>
+<map>
+    <Cell>
+        <entity1 rdf:resource="http://taxref.mnhn.fr/lod/taxon/698870/13.0"/>
+        <entity2 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_748015"/>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+        <relation>=</relation>
+    </Cell>
+</map>
+<map>
+    <Cell>
+        <entity1 rdf:resource="http://taxref.mnhn.fr/lod/taxon/698834/13.0"/>
+        <entity2 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_53401"/>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+        <relation>=</relation>
+    </Cell>
+</map>
+<map>
+    <Cell>
+        <entity1 rdf:resource="http://taxref.mnhn.fr/lod/taxon/627053/13.0"/>
+        <entity2 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_59512"/>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+        <relation>=</relation>
+    </Cell>
+</map>
+<map>
+    <Cell>
+        <entity1 rdf:resource="http://taxref.mnhn.fr/lod/taxon/528845/13.0"/>
+        <entity2 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_331989"/>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+        <relation>=</relation>
+    </Cell>
+</map>
+<map>
+    <Cell>
+        <entity1 rdf:resource="http://taxref.mnhn.fr/lod/taxon/894928/13.0"/>
+        <entity2 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_1296320"/>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+        <relation>=</relation>
+    </Cell>
+</map>
+<map>
+    <Cell>
+        <entity1 rdf:resource="http://taxref.mnhn.fr/lod/taxon/72327/13.0"/>
+        <entity2 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_1205914"/>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+        <relation>=</relation>
+    </Cell>
+</map>
+<map>
+    <Cell>
+        <entity1 rdf:resource="http://taxref.mnhn.fr/lod/taxon/529072/13.0"/>
+        <entity2 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_675502"/>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+        <relation>=</relation>
+    </Cell>
+</map>
+<map>
+    <Cell>
+        <entity1 rdf:resource="http://taxref.mnhn.fr/lod/taxon/908362/13.0"/>
+        <entity2 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_467598"/>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+        <relation>=</relation>
+    </Cell>
+</map>
+<map>
+    <Cell>
+        <entity1 rdf:resource="http://taxref.mnhn.fr/lod/taxon/72395/13.0"/>
+        <entity2 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_1165"/>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+        <relation>=</relation>
+    </Cell>
+</map>
+<map>
+    <Cell>
+        <entity1 rdf:resource="http://taxref.mnhn.fr/lod/taxon/720092/13.0"/>
+        <entity2 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_1442619"/>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+        <relation>=</relation>
+    </Cell>
+</map>
+<map>
+    <Cell>
+        <entity1 rdf:resource="http://taxref.mnhn.fr/lod/taxon/792005/13.0"/>
+        <entity2 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_262057"/>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+        <relation>=</relation>
+    </Cell>
+</map>
+<map>
+    <Cell>
+        <entity1 rdf:resource="http://taxref.mnhn.fr/lod/taxon/811629/13.0"/>
+        <entity2 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_1521619"/>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+        <relation>=</relation>
+    </Cell>
+</map>
+<map>
+    <Cell>
+        <entity1 rdf:resource="http://taxref.mnhn.fr/lod/taxon/854007/13.0"/>
+        <entity2 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_770"/>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+        <relation>=</relation>
+    </Cell>
+</map>
+<map>
+    <Cell>
+        <entity1 rdf:resource="http://taxref.mnhn.fr/lod/taxon/929489/13.0"/>
+        <entity2 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_668"/>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+        <relation>=</relation>
+    </Cell>
+</map>
+<map>
+    <Cell>
+        <entity1 rdf:resource="http://taxref.mnhn.fr/lod/taxon/850950/13.0"/>
+        <entity2 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_1610758"/>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+        <relation>=</relation>
+    </Cell>
+</map>
+<map>
+    <Cell>
+        <entity1 rdf:resource="http://taxref.mnhn.fr/lod/taxon/698744/13.0"/>
+        <entity2 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_442436"/>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+        <relation>=</relation>
+    </Cell>
+</map>
+<map>
+    <Cell>
+        <entity1 rdf:resource="http://taxref.mnhn.fr/lod/taxon/652751/13.0"/>
+        <entity2 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_192050"/>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+        <relation>=</relation>
+    </Cell>
+</map>
+<map>
+    <Cell>
+        <entity1 rdf:resource="http://taxref.mnhn.fr/lod/taxon/698752/13.0"/>
+        <entity2 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_1125732"/>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+        <relation>=</relation>
+    </Cell>
+</map>
+<map>
+    <Cell>
+        <entity1 rdf:resource="http://taxref.mnhn.fr/lod/taxon/72218/13.0"/>
+        <entity2 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_493181"/>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+        <relation>=</relation>
+    </Cell>
+</map>
+<map>
+    <Cell>
+        <entity1 rdf:resource="http://taxref.mnhn.fr/lod/taxon/72229/13.0"/>
+        <entity2 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_102117"/>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+        <relation>=</relation>
+    </Cell>
+</map>
+<map>
+    <Cell>
+        <entity1 rdf:resource="http://taxref.mnhn.fr/lod/taxon/529834/13.0"/>
+        <entity2 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_1160"/>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+        <relation>=</relation>
+    </Cell>
+</map>
+<map>
+    <Cell>
+        <entity1 rdf:resource="http://taxref.mnhn.fr/lod/taxon/529836/13.0"/>
+        <entity2 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_264691"/>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+        <relation>=</relation>
+    </Cell>
+</map>
+<map>
+    <Cell>
+        <entity1 rdf:resource="http://taxref.mnhn.fr/lod/taxon/720024/13.0"/>
+        <entity2 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_945775"/>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+        <relation>=</relation>
+    </Cell>
+</map>
+<map>
+    <Cell>
+        <entity1 rdf:resource="http://taxref.mnhn.fr/lod/taxon/781086/13.0"/>
+        <entity2 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_1031"/>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+        <relation>=</relation>
+    </Cell>
+</map>
+<map>
+    <Cell>
+        <entity1 rdf:resource="http://taxref.mnhn.fr/lod/taxon/529929/13.0"/>
+        <entity2 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_471272"/>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+        <relation>=</relation>
+    </Cell>
+</map>
+<map>
+    <Cell>
+        <entity1 rdf:resource="http://taxref.mnhn.fr/lod/taxon/72223/13.0"/>
+        <entity2 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_1125738"/>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+        <relation>=</relation>
+    </Cell>
+</map>
+<map>
+    <Cell>
+        <entity1 rdf:resource="http://taxref.mnhn.fr/lod/taxon/823282/13.0"/>
+        <entity2 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_529922"/>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+        <relation>=</relation>
+    </Cell>
+</map>
+<map>
+    <Cell>
+        <entity1 rdf:resource="http://taxref.mnhn.fr/lod/taxon/892541/13.0"/>
+        <entity2 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_1773"/>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+        <relation>=</relation>
+    </Cell>
+</map>
+<map>
+    <Cell>
+        <entity1 rdf:resource="http://taxref.mnhn.fr/lod/taxon/72060/13.0"/>
+        <entity2 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_1565293"/>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+        <relation>=</relation>
+    </Cell>
+</map>
+<map>
+    <Cell>
+        <entity1 rdf:resource="http://taxref.mnhn.fr/lod/taxon/72044/13.0"/>
+        <entity2 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_202207"/>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+        <relation>=</relation>
+    </Cell>
+</map>
+<map>
+    <Cell>
+        <entity1 rdf:resource="http://taxref.mnhn.fr/lod/taxon/895122/13.0"/>
+        <entity2 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_1867040"/>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+        <relation>=</relation>
+    </Cell>
+</map>
+<map>
+    <Cell>
+        <entity1 rdf:resource="http://taxref.mnhn.fr/lod/taxon/932445/13.0"/>
+        <entity2 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_35788"/>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+        <relation>=</relation>
+    </Cell>
+</map>
+<map>
+    <Cell>
+        <entity1 rdf:resource="http://taxref.mnhn.fr/lod/taxon/698836/13.0"/>
+        <entity2 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_1049561"/>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+        <relation>=</relation>
+    </Cell>
+</map>
+<map>
+    <Cell>
+        <entity1 rdf:resource="http://taxref.mnhn.fr/lod/taxon/829959/13.0"/>
+        <entity2 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_2510775"/>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+        <relation>=</relation>
+    </Cell>
+</map>
+<map>
+    <Cell>
+        <entity1 rdf:resource="http://taxref.mnhn.fr/lod/taxon/72377/13.0"/>
+        <entity2 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_44822"/>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+        <relation>=</relation>
+    </Cell>
+</map>
+<map>
+    <Cell>
+        <entity1 rdf:resource="http://taxref.mnhn.fr/lod/taxon/895077/13.0"/>
+        <entity2 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_322865"/>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+        <relation>=</relation>
+    </Cell>
+</map>
+<map>
+    <Cell>
+        <entity1 rdf:resource="http://taxref.mnhn.fr/lod/taxon/670560/13.0"/>
+        <entity2 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_135104"/>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+        <relation>=</relation>
+    </Cell>
+</map>
+<map>
+    <Cell>
+        <entity1 rdf:resource="http://taxref.mnhn.fr/lod/taxon/72079/13.0"/>
+        <entity2 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_402401"/>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+        <relation>=</relation>
+    </Cell>
+</map>
+<map>
+    <Cell>
+        <entity1 rdf:resource="http://taxref.mnhn.fr/lod/taxon/823241/13.0"/>
+        <entity2 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_2650528"/>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+        <relation>=</relation>
+    </Cell>
+</map>
+<map>
+    <Cell>
+        <entity1 rdf:resource="http://taxref.mnhn.fr/lod/taxon/72287/13.0"/>
+        <entity2 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_221293"/>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+        <relation>=</relation>
+    </Cell>
+</map>
+<map>
+    <Cell>
+        <entity1 rdf:resource="http://taxref.mnhn.fr/lod/taxon/650857/13.0"/>
+        <entity2 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_207923"/>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+        <relation>=</relation>
+    </Cell>
+</map>
+<map>
+    <Cell>
+        <entity1 rdf:resource="http://taxref.mnhn.fr/lod/taxon/851057/13.0"/>
+        <entity2 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_1973486"/>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+        <relation>=</relation>
+    </Cell>
+</map>
+<map>
+    <Cell>
+        <entity1 rdf:resource="http://taxref.mnhn.fr/lod/taxon/72172/13.0"/>
+        <entity2 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_882065"/>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+        <relation>=</relation>
+    </Cell>
+</map>
+<map>
+    <Cell>
+        <entity1 rdf:resource="http://taxref.mnhn.fr/lod/taxon/698925/13.0"/>
+        <entity2 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_933340"/>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+        <relation>=</relation>
+    </Cell>
+</map>
+<map>
+    <Cell>
+        <entity1 rdf:resource="http://taxref.mnhn.fr/lod/taxon/762307/13.0"/>
+        <entity2 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_1206"/>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+        <relation>=</relation>
+    </Cell>
+</map>
+<map>
+    <Cell>
+        <entity1 rdf:resource="http://taxref.mnhn.fr/lod/taxon/72294/13.0"/>
+        <entity2 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_543824"/>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+        <relation>=</relation>
+    </Cell>
+</map>
+<map>
+    <Cell>
+        <entity1 rdf:resource="http://taxref.mnhn.fr/lod/taxon/72200/13.0"/>
+        <entity2 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_126345"/>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+        <relation>=</relation>
+    </Cell>
+</map>
+<map>
+    <Cell>
+        <entity1 rdf:resource="http://taxref.mnhn.fr/lod/taxon/72137/13.0"/>
+        <entity2 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_1521626"/>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+        <relation>=</relation>
+    </Cell>
+</map>
+<map>
+    <Cell>
+        <entity1 rdf:resource="http://taxref.mnhn.fr/lod/taxon/698877/13.0"/>
+        <entity2 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_1202782"/>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+        <relation>=</relation>
+    </Cell>
+</map>
+<map>
+    <Cell>
+        <entity1 rdf:resource="http://taxref.mnhn.fr/lod/taxon/823269/13.0"/>
+        <entity2 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_126586"/>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+        <relation>=</relation>
+    </Cell>
+</map>
+<map>
+    <Cell>
+        <entity1 rdf:resource="http://taxref.mnhn.fr/lod/taxon/698868/13.0"/>
+        <entity2 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_45916"/>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+        <relation>=</relation>
+    </Cell>
+</map>
+<map>
+    <Cell>
+        <entity1 rdf:resource="http://taxref.mnhn.fr/lod/taxon/72192/13.0"/>
+        <entity2 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_1178"/>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+        <relation>=</relation>
+    </Cell>
+</map>
+<map>
+    <Cell>
+        <entity1 rdf:resource="http://taxref.mnhn.fr/lod/taxon/705199/13.0"/>
+        <entity2 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_1485678"/>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+        <relation>=</relation>
+    </Cell>
+</map>
+<map>
+    <Cell>
+        <entity1 rdf:resource="http://taxref.mnhn.fr/lod/taxon/698828/13.0"/>
+        <entity2 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_284924"/>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+        <relation>=</relation>
+    </Cell>
+</map>
+<map>
+    <Cell>
+        <entity1 rdf:resource="http://taxref.mnhn.fr/lod/taxon/814648/13.0"/>
+        <entity2 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_562"/>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+        <relation>=</relation>
+    </Cell>
+</map>
+<map>
+    <Cell>
+        <entity1 rdf:resource="http://taxref.mnhn.fr/lod/taxon/895067/13.0"/>
+        <entity2 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_693227"/>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+        <relation>=</relation>
+    </Cell>
+</map>
+<map>
+    <Cell>
+        <entity1 rdf:resource="http://taxref.mnhn.fr/lod/taxon/705154/13.0"/>
+        <entity2 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_2303152"/>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+        <relation>=</relation>
+    </Cell>
+</map>
+<map>
+    <Cell>
+        <entity1 rdf:resource="http://taxref.mnhn.fr/lod/taxon/698855/13.0"/>
+        <entity2 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_423208"/>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+        <relation>=</relation>
+    </Cell>
+</map>
+<map>
+    <Cell>
+        <entity1 rdf:resource="http://taxref.mnhn.fr/lod/taxon/720104/13.0"/>
+        <entity2 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_54307"/>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+        <relation>=</relation>
+    </Cell>
+</map>
+<map>
+    <Cell>
+        <entity1 rdf:resource="http://taxref.mnhn.fr/lod/taxon/647968/13.0"/>
+        <entity2 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_158786"/>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+        <relation>=</relation>
+    </Cell>
+</map>
+<map>
+    <Cell>
+        <entity1 rdf:resource="http://taxref.mnhn.fr/lod/taxon/895117/13.0"/>
+        <entity2 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_2056559"/>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+        <relation>=</relation>
+    </Cell>
+</map>
+<map>
+    <Cell>
+        <entity1 rdf:resource="http://taxref.mnhn.fr/lod/taxon/72071/13.0"/>
+        <entity2 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_2153196"/>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+        <relation>=</relation>
+    </Cell>
+</map>
+<map>
+    <Cell>
+        <entity1 rdf:resource="http://taxref.mnhn.fr/lod/taxon/698908/13.0"/>
+        <entity2 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_64178"/>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+        <relation>=</relation>
+    </Cell>
+</map>
+<map>
+    <Cell>
+        <entity1 rdf:resource="http://taxref.mnhn.fr/lod/taxon/72250/13.0"/>
+        <entity2 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_54308"/>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+        <relation>=</relation>
+    </Cell>
+</map>
+<map>
+    <Cell>
+        <entity1 rdf:resource="http://taxref.mnhn.fr/lod/taxon/670570/13.0"/>
+        <entity2 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_1521602"/>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+        <relation>=</relation>
+    </Cell>
+</map>
+<map>
+    <Cell>
+        <entity1 rdf:resource="http://taxref.mnhn.fr/lod/taxon/829949/13.0"/>
+        <entity2 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_264679"/>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+        <relation>=</relation>
+    </Cell>
+</map>
+<map>
+    <Cell>
+        <entity1 rdf:resource="http://taxref.mnhn.fr/lod/taxon/781084/13.0"/>
+        <entity2 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_128142"/>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+        <relation>=</relation>
+    </Cell>
+</map>
+<map>
+    <Cell>
+        <entity1 rdf:resource="http://taxref.mnhn.fr/lod/taxon/72333/13.0"/>
+        <entity2 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_426446"/>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+        <relation>=</relation>
+    </Cell>
+</map>
+<map>
+    <Cell>
+        <entity1 rdf:resource="http://taxref.mnhn.fr/lod/taxon/792891/13.0"/>
+        <entity2 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_128152"/>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+        <relation>=</relation>
+    </Cell>
+</map>
+<map>
+    <Cell>
+        <entity1 rdf:resource="http://taxref.mnhn.fr/lod/taxon/698795/13.0"/>
+        <entity2 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_34078"/>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+        <relation>=</relation>
+    </Cell>
+</map>
+<map>
+    <Cell>
+        <entity1 rdf:resource="http://taxref.mnhn.fr/lod/taxon/72344/13.0"/>
+        <entity2 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_118322"/>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+        <relation>=</relation>
+    </Cell>
+</map>
+<map>
+    <Cell>
+        <entity1 rdf:resource="http://taxref.mnhn.fr/lod/taxon/72174/13.0"/>
+        <entity2 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_271628"/>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+        <relation>=</relation>
+    </Cell>
+</map>
+<map>
+    <Cell>
+        <entity1 rdf:resource="http://taxref.mnhn.fr/lod/taxon/829978/13.0"/>
+        <entity2 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_92934"/>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+        <relation>=</relation>
+    </Cell>
+</map>
+<map>
+    <Cell>
+        <entity1 rdf:resource="http://taxref.mnhn.fr/lod/taxon/698852/13.0"/>
+        <entity2 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_1246988"/>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+        <relation>=</relation>
+    </Cell>
+</map>
+<map>
+    <Cell>
+        <entity1 rdf:resource="http://taxref.mnhn.fr/lod/taxon/72407/13.0"/>
+        <entity2 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_156211"/>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+        <relation>=</relation>
+    </Cell>
+</map>
+<map>
+    <Cell>
+        <entity1 rdf:resource="http://taxref.mnhn.fr/lod/taxon/670188/13.0"/>
+        <entity2 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_207924"/>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+        <relation>=</relation>
+    </Cell>
+</map>
+<map>
+    <Cell>
+        <entity1 rdf:resource="http://taxref.mnhn.fr/lod/taxon/795807/13.0"/>
+        <entity2 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_1030357"/>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+        <relation>=</relation>
+    </Cell>
+</map>
+<map>
+    <Cell>
+        <entity1 rdf:resource="http://taxref.mnhn.fr/lod/taxon/72413/13.0"/>
+        <entity2 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_445011"/>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+        <relation>=</relation>
+    </Cell>
+</map>
+<map>
+    <Cell>
+        <entity1 rdf:resource="http://taxref.mnhn.fr/lod/taxon/829963/13.0"/>
+        <entity2 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_240295"/>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+        <relation>=</relation>
+    </Cell>
+</map>
+<map>
+    <Cell>
+        <entity1 rdf:resource="http://taxref.mnhn.fr/lod/taxon/72253/13.0"/>
+        <entity2 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_863686"/>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+        <relation>=</relation>
+    </Cell>
+</map>
+<map>
+    <Cell>
+        <entity1 rdf:resource="http://taxref.mnhn.fr/lod/taxon/912147/13.0"/>
+        <entity2 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_552"/>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+        <relation>=</relation>
+    </Cell>
+</map>
+<map>
+    <Cell>
+        <entity1 rdf:resource="http://taxref.mnhn.fr/lod/taxon/811591/13.0"/>
+        <entity2 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_633391"/>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+        <relation>=</relation>
+    </Cell>
+</map>
+<map>
+    <Cell>
+        <entity1 rdf:resource="http://taxref.mnhn.fr/lod/taxon/933593/13.0"/>
+        <entity2 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_32046"/>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+        <relation>=</relation>
+    </Cell>
+</map>
+<map>
+    <Cell>
+        <entity1 rdf:resource="http://taxref.mnhn.fr/lod/taxon/72232/13.0"/>
+        <entity2 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_132603"/>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+        <relation>=</relation>
+    </Cell>
+</map>
+<map>
+    <Cell>
+        <entity1 rdf:resource="http://taxref.mnhn.fr/lod/taxon/698805/13.0"/>
+        <entity2 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_933307"/>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+        <relation>=</relation>
+    </Cell>
+</map>
+<map>
+    <Cell>
+        <entity1 rdf:resource="http://taxref.mnhn.fr/lod/taxon/72038/13.0"/>
+        <entity2 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_54296"/>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+        <relation>=</relation>
+    </Cell>
+</map>
+<map>
+    <Cell>
+        <entity1 rdf:resource="http://taxref.mnhn.fr/lod/taxon/72337/13.0"/>
+        <entity2 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_128153"/>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+        <relation>=</relation>
+    </Cell>
+</map>
+<map>
+    <Cell>
+        <entity1 rdf:resource="http://taxref.mnhn.fr/lod/taxon/841556/13.0"/>
+        <entity2 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_317"/>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+        <relation>=</relation>
+    </Cell>
+</map>
+<map>
+    <Cell>
+        <entity1 rdf:resource="http://taxref.mnhn.fr/lod/taxon/72317/13.0"/>
+        <entity2 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_270636"/>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+        <relation>=</relation>
+    </Cell>
+</map>
+<map>
+    <Cell>
+        <entity1 rdf:resource="http://taxref.mnhn.fr/lod/taxon/670405/13.0"/>
+        <entity2 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_665910"/>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+        <relation>=</relation>
+    </Cell>
+</map>
+<map>
+    <Cell>
+        <entity1 rdf:resource="http://taxref.mnhn.fr/lod/taxon/895054/13.0"/>
+        <entity2 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_1301161"/>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+        <relation>=</relation>
+    </Cell>
+</map>
+<map>
+    <Cell>
+        <entity1 rdf:resource="http://taxref.mnhn.fr/lod/taxon/720106/13.0"/>
+        <entity2 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_1112103"/>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+        <relation>=</relation>
+    </Cell>
+</map>
+</Alignment>
+</rdf:RDF>

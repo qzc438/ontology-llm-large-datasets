@@ -1,0 +1,177 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rdf:RDF xmlns='http://knowledgeweb.semanticweb.org/heterogeneity/alignment#'
+	 xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#' 
+	 xmlns:xsd='http://www.w3.org/2001/XMLSchema#'>
+
+<Alignment>
+	<xml>yes</xml>
+	<level>0</level>
+	<type>11</type>
+	<onto1>https://kos.lifewatch.eu/thesauri/macroalgae</onto1>
+	<onto2>https://kos.lifewatch.eu/thesauri/macrozoobenthostraits</onto2>
+	<uri1>https://kos.lifewatch.eu/thesauri/macroalgae</uri1>
+	<uri2>https://kos.lifewatch.eu/thesauri/macrozoobenthostraits</uri2>
+	<map>
+		<Cell>
+			<entity1 rdf:resource="https://kos.lifewatch.eu/thesauri/macroalgae/c_135"/>
+			<entity2 rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_187"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="https://kos.lifewatch.eu/thesauri/macroalgae/c_13"/>
+			<entity2 rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_120"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="https://kos.lifewatch.eu/thesauri/macroalgae/c_86"/>
+			<entity2 rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_70"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="https://kos.lifewatch.eu/thesauri/macroalgae/c_37"/>
+			<entity2 rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_71"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="https://kos.lifewatch.eu/thesauri/macroalgae/c_32"/>
+			<entity2 rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_191"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="https://kos.lifewatch.eu/thesauri/macroalgae/c_147"/>
+			<entity2 rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_68"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="https://kos.lifewatch.eu/thesauri/macroalgae/c_20"/>
+			<entity2 rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_128"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="https://kos.lifewatch.eu/thesauri/macroalgae/c_155"/>
+			<entity2 rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_112"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="https://kos.lifewatch.eu/thesauri/macroalgae/c_167"/>
+			<entity2 rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_230"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+	
+	<map>
+		<Cell>
+			<entity1 rdf:resource="https://kos.lifewatch.eu/thesauri/macroalgae/c_156"/>
+			<entity2 rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_114"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="https://kos.lifewatch.eu/thesauri/macroalgae/c_146"/>
+			<entity2 rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_115"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="https://kos.lifewatch.eu/thesauri/macroalgae/c_17"/>
+			<entity2 rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_125"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="https://kos.lifewatch.eu/thesauri/macroalgae/c_43"/>
+			<entity2 rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_201"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+	
+	<map>
+		<Cell>
+			<entity1 rdf:resource="https://kos.lifewatch.eu/thesauri/macroalgae/c_60"/>
+			<entity2 rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_113"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+	
+	<map>
+		<Cell>
+			<entity1 rdf:resource="https://kos.lifewatch.eu/thesauri/macroalgae/c_62"/>
+			<entity2 rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_78"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="https://kos.lifewatch.eu/thesauri/macroalgae/c_110"/>
+			<entity2 rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_72"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="https://kos.lifewatch.eu/thesauri/macroalgae/c_15"/>
+			<entity2 rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_153"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="https://kos.lifewatch.eu/thesauri/macroalgae/c_108"/>
+			<entity2 rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_119"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+</Alignment>
+</rdf:RDF>
